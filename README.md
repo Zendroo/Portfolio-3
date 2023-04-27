@@ -14,4 +14,4 @@
 
 # Autorias 
 > Todas autorias
-## [Autorias](https://docs.google.com/document/d/1vNwGoMkuNgqaeRQayzWDvhKs4CxU8vyJnPuWEPT4kYA/edit?usp=sharing)
+## [Autorias](https://docs.google.com/document/d/1KjHsqamWMmwmYF53xKH42YFmZKcLvJIL1GT4YxHV1aY/edit?usp=sharing)
