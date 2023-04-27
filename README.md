@@ -7,8 +7,8 @@
 ###### **Programação de Aplicativos** →  **Modelagem de Sistemas** →  **Testes de Sistemas** →  **Banco de Dados**
 
 ## Atividades escolhidas 
-#### Programação de Aplicativos → *site rato (O motivo da escolha foi o quão legal o site ficou).*
-#### Modelagem de Sistemas → *Primeira atividade feita no ano e a última (Para mostrar a evolução).*
+#### Programação de Aplicativos → 
+#### Modelagem de Sistemas → 
 #### Testes de Sistemas →
 #### Banco de Dados →
 
