@@ -4,7 +4,7 @@
 # **1° Trimestre**
 > Descrição do Portfólio
 ##### *O portfólio terá conteúdos sobre:*  
-###### **** → **Programação de Aplicativos** →  **Modelagem de Sistemas** →  **Testes de Sistemas** →  **Banco de Dados**
+###### **Programação de Aplicativos** →  **Modelagem de Sistemas** →  **Testes de Sistemas** →  **Banco de Dados**
 -----------------------------------------------------------------------------
 ## Atividades escolhidas 
 #### Design -> *site rato (O motivo da escolha foi o quão legal o site ficou).*
