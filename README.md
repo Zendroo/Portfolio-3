@@ -5,10 +5,12 @@
 > Descrição do Portfólio
 ##### *O portfólio terá conteúdos sobre:*  
 ###### **Programação de Aplicativos** →  **Modelagem de Sistemas** →  **Testes de Sistemas** →  **Banco de Dados**
------------------------------------------------------------------------------
+
 ## Atividades escolhidas 
-#### Design -> *site rato (O motivo da escolha foi o quão legal o site ficou).*
-#### Lógica computacional -> *Primeira atividade feita no ano e a última (Para mostrar a evolução).*
+#### Programação de Aplicativos → *site rato (O motivo da escolha foi o quão legal o site ficou).*
+#### Modelagem de Sistemas → *Primeira atividade feita no ano e a última (Para mostrar a evolução).*
+#### Testes de Sistemas →
+#### Banco de Dados →
 
 # Autorias 
 > Todas autorias
