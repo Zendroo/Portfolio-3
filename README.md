@@ -15,3 +15,5 @@
 # Autorias 
 > Todas autorias
 ## [Autorias](https://docs.google.com/document/d/1KjHsqamWMmwmYF53xKH42YFmZKcLvJIL1GT4YxHV1aY/edit?usp=sharing) , [Autoria/tentativa de app](https://github.com/Zendroo/Portfolio-3/blob/main/Autoria/autoria.zip)
+----------------------------------------------------------------------------------------
+## Postagens acima 2° Trimestre
