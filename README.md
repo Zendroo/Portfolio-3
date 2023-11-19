@@ -24,3 +24,4 @@
 ###### **Programação de Aplicativos**
 
 #### Programação de Aplicativos → [BookNook](https://github.com/Zendroo/booknook)
+#### Autoria → Mundo do trabalho projeto Yo Producer :)
