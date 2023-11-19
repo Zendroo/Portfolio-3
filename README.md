@@ -17,3 +17,10 @@
 ## [Autorias](https://docs.google.com/document/d/1KjHsqamWMmwmYF53xKH42YFmZKcLvJIL1GT4YxHV1aY/edit?usp=sharing) , [Autoria/tentativa de app](https://github.com/Zendroo/Portfolio-3/blob/main/Autoria/autoria.zip)
 ----------------------------------------------------------------------------------------
 ## Postagens acima 2° Trimestre
+-------------------------------------------------------------------------------------
+# **3° Trimestre**
+> Descrição do Portfólio
+##### *O portfólio terá conteúdos sobre:*  
+###### **Programação de Aplicativos**
+
+#### Programação de Aplicativos → [BookNook](https://github.com/Zendroo/booknook)
